@@ -1,0 +1,24 @@
+Section One:
+	Chp 01: Inroduction - Course Roadmap
+
+	Chp 02: Roadmap to the first App
+		> Install Dependencies per operating system
+		> Install ESLint depending on code editor
+		> Generate a React Native Project
+		> Get Coding.
+	Chp 03: Official Course Github Repo
+		> Official Course Github Repo
+		The completed code for each example can be found here: https://github.com/StephenGrider/ReactNativeReduxCasts
+
+Section Two: Got OSX? Go here
+	OSX Installation
+		> open https://facebook.github.io/react-native/docs/getting-started.html
+		> Before actuall installtion and running tons of commands, first let's understand all the purpose of the dependency.
+		1. XCode: Pkg our code + the react native library into installable app and run it on the IOS Simulator.
+		2. HomeBrew: Use to install node
+		3. Node/NPM: Nodes runs JS outside of the browser. NPM is used for installing and managing dependencies. Node and NPM come together.
+		4. watchman: Watches files on the HD and waits for them to changes.
+		6. RN CLI: React native command line intefrace. Use to generate new React Native projects.
+
+	More on OSX installation
+	Running in the Simulator
